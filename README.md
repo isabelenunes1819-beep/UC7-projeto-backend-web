@@ -20,4 +20,4 @@ Permitir ue os usuários
 Estudantes, professores, diretores, coordenadores, supervisores e responsáveis pelos alunos
 
 ## Futuras melhorias
-Realizar
+Realizar compras de materias
